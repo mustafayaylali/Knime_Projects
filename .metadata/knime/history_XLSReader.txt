@@ -1,0 +1,6 @@
+C:\Users\ME99689\Desktop\Knime workspace\odevData.xlsx
+C:\Users\ME99689\Desktop\Knime workspace\testData1.xlsx
+C:\Users\ME99689\Desktop\Knime workspace\iris.xls
+knime://LOCAL/Example%20Workflows/TheData/Customers/CallsData.xls
+C:\Users\ME99689\Desktop\Knime workspace\exceldosyas-11-b-l-m6ders23-2.xlsx
+C:\Users\ME99689\Desktop\Knime workspace\exceldosyas-10-b-l-m6ders23-1.xlsx

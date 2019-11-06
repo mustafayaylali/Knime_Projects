@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="naivebayesDataModel">
+<entry key="ClassColumnName" type="xstring" value="iris"/>
+<config key="ClassColumnType">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="Threshold" type="xdouble" value="1.0E-4"/>
+<config key="SkippedAttributes">
+<entry key="SkippedAttributesCounter" type="xint" value="0"/>
+</config>
+<config key="AttributeModelSection">
+<entry key="AttributeModelCounter" type="xint" value="5"/>
+<config key="AttributeModelData_0">
+<entry key="attributeName" type="xstring" value="sepal length"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xlong" value="3"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Iris-versicolor"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="40"/>
+<entry key="mean" type="xdouble" value="5.949999999999998"/>
+<entry key="sd" type="xdouble" value="0.5392302205637501"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Iris-virginica"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="43"/>
+<entry key="mean" type="xdouble" value="6.569767441860465"/>
+<entry key="sd" type="xdouble" value="0.6382770273765409"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="Iris-setosa"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="37"/>
+<entry key="mean" type="xdouble" value="4.9702702702702695"/>
+<entry key="sd" type="xdouble" value="0.3695829968918911"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_1">
+<entry key="attributeName" type="xstring" value="sepal width"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xlong" value="3"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Iris-versicolor"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="40"/>
+<entry key="mean" type="xdouble" value="2.7650000000000006"/>
+<entry key="sd" type="xdouble" value="0.3332435776594683"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Iris-virginica"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="43"/>
+<entry key="mean" type="xdouble" value="2.9790697674418603"/>
+<entry key="sd" type="xdouble" value="0.3121035691461317"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="Iris-setosa"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="37"/>
+<entry key="mean" type="xdouble" value="3.4054054054054057"/>
+<entry key="sd" type="xdouble" value="0.41429052202124617"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_2">
+<entry key="attributeName" type="xstring" value="petal length"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xlong" value="3"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Iris-versicolor"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="40"/>
+<entry key="mean" type="xdouble" value="4.245000000000001"/>
+<entry key="sd" type="xdouble" value="0.5138841533623343"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Iris-virginica"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="43"/>
+<entry key="mean" type="xdouble" value="5.534883720930232"/>
+<entry key="sd" type="xdouble" value="0.5335789855085198"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="Iris-setosa"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="37"/>
+<entry key="mean" type="xdouble" value="1.4405405405405403"/>
+<entry key="sd" type="xdouble" value="0.16743068127745592"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_3">
+<entry key="attributeName" type="xstring" value="petal width"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xlong" value="3"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Iris-versicolor"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="40"/>
+<entry key="mean" type="xdouble" value="1.33"/>
+<entry key="sd" type="xdouble" value="0.21507303470312186"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Iris-virginica"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="43"/>
+<entry key="mean" type="xdouble" value="2.0418604651162786"/>
+<entry key="sd" type="xdouble" value="0.2683570455120733"/>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="Iris-setosa"/>
+<entry key="MissingValCounter" type="xlong" value="0"/>
+<entry key="noOfRows" type="xlong" value="37"/>
+<entry key="mean" type="xdouble" value="0.2378378378378378"/>
+<entry key="sd" type="xdouble" value="0.10368582714503824"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_4">
+<entry key="attributeName" type="xstring" value="iris"/>
+<entry key="type" type="xstring" value="ClassModel"/>
+<entry key="skipMissingVals" type="xboolean" value="false"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="totalNoOfRecords" type="xlong" value="120"/>
+<entry key="maxNoOfClassValues" type="xlong" value="20"/>
+<config key="classValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="Iris-setosa"/>
+<entry key="1" type="xstring" value="Iris-versicolor"/>
+<entry key="2" type="xstring" value="Iris-virginica"/>
+</config>
+<config key="classRecordCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xlong" value="37"/>
+<entry key="1" type="xlong" value="40"/>
+<entry key="2" type="xlong" value="43"/>
+</config>
+</config>
+</config>
+</config>
+</config>

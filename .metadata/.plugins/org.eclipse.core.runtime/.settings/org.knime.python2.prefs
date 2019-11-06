@@ -1,0 +1,9 @@
+condaDirectoryPath=C\:\\Users\\ME99689\\AppData\\Local\\Continuum\\anaconda3
+defaultPythonOption=python3
+eclipse.preferences.version=1
+python2CondaEnvironmentName=base
+python2Path=python
+python3CondaEnvironmentName=base
+python3Path=python3
+pythonEnvironmentType=conda
+serializerId=org.knime.serialization.flatbuffers.column

@@ -1,0 +1,2 @@
+C:\Users\ME99689\Desktop\Knime workspace\Loan payments data.csv
+C:\Users\ME99689\Desktop\Knime workspace\borsa_verisi_2018-2019.csv

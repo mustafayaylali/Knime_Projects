@@ -1,0 +1,12 @@
+
+{
+    "type":"object",
+    "properties":{
+        "string-input-3":{
+            "type":"string",
+            "default":"Kadın",
+            "description":"Enter Description",
+            "example":"Kadın"
+        }
+    }
+}
